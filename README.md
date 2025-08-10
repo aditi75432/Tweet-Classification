@@ -4,7 +4,8 @@ This repository contains the code and resources for a project focused on classif
 
 This project implements and evaluates several core machine learning algorithms to automate the process of identifying disaster-related tweets, inspired by the research conducted by Aditi Mehta and Arshiya Garg.
 
-**Reference Paper:** Mehta, A., Garg, A. (2024). Identifying Disaster-Related Tweets using Natural Language Processing and Core Machine Learning Algorithms. In: Sharma, H., et al. Sixth International Conference on Information and Communication Technology for Intelligent Systems. ICTIS 2024. Lecture Notes in Networks and Systems, vol 947. Springer, Cham. [https://doi.org/10.1007/978-3-031-91331-0_15](https://doi.org/10.1007/978-3-031-91331-0_15)
+**Research Paper:** Mehta, A., Garg, A. (2025). Identifying Disaster-Related Tweets using Natural Language Processing and Core Machine Learning Algorithms. In: Sharma, H., et al. Sixth International Conference on Artificial Intelligence and Speech Technology. AIST 2024.
+[https://doi.org/10.1007/978-3-031-91331-0_15](https://doi.org/10.1007/978-3-031-91331-0_15)
 
 ---
 
